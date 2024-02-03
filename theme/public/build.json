@@ -1,0 +1,5 @@
+{
+	"css/theme.min.css": [
+		"public/css/theme.css"
+	]
+}

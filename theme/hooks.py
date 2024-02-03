@@ -4,20 +4,23 @@ app_name = "theme"
 app_title = "theme"
 app_publisher = "e"
 app_description = "e"
-app_email = "e"
+app_email = "e@gmail.com"
 app_license = "e"
 
 # Includes in <head>
 # ------------------
 
 # include js, css files in header of desk.html
-# app_include_css = "/assets/theme/css/theme.css"
+# app_include_css = "/assets/theme/theme.css"
 # app_include_js = "/assets/theme/js/theme.js"
-
+app_include_css = "theme.bundle.css"
+app_include_js = ['theme.bundle.js']
 # include js, css files in header of web template
-# web_include_css = "/assets/theme/css/theme.css"
+# web_include_css = "/assets/theme/css/theme.css"bench build --app theme
+
 # web_include_js = "/assets/theme/js/theme.js"
 
+  
 # include custom scss in every website theme (without file extension ".scss")
 # website_theme_scss = "theme/public/scss/website"
 

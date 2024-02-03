@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../../../apps/theme/theme/public/js/theme.bundle.js"],
+  "sourcesContent": ["console.log(\"hiii\")"],
+  "mappings": ";;AAAA,UAAQ,IAAI,MAAM;",
+  "names": []
+}
